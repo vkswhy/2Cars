@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/2Cars/static/css/main.f9ea13b5.chunk.css",
-    "main.js": "/2Cars/static/js/main.5c646cfa.chunk.js",
-    "main.js.map": "/2Cars/static/js/main.5c646cfa.chunk.js.map",
+    "main.js": "/2Cars/static/js/main.c2687ed6.chunk.js",
+    "main.js.map": "/2Cars/static/js/main.c2687ed6.chunk.js.map",
     "runtime-main.js": "/2Cars/static/js/runtime-main.97a700e0.js",
     "runtime-main.js.map": "/2Cars/static/js/runtime-main.97a700e0.js.map",
     "static/js/2.88fe559a.chunk.js": "/2Cars/static/js/2.88fe559a.chunk.js",
@@ -13,6 +13,7 @@
     "static/css/main.f9ea13b5.chunk.css.map": "/2Cars/static/css/main.f9ea13b5.chunk.css.map",
     "static/js/2.88fe559a.chunk.js.LICENSE.txt": "/2Cars/static/js/2.88fe559a.chunk.js.LICENSE.txt",
     "static/media/HelpText1.ff8c4c8e.svg": "/2Cars/static/media/HelpText1.ff8c4c8e.svg",
+    "static/media/backgroundMusic.306378d2.mp3": "/2Cars/static/media/backgroundMusic.306378d2.mp3",
     "static/media/boton_play.4646e54f.png": "/2Cars/static/media/boton_play.4646e54f.png",
     "static/media/boton_reload.115e007c.png": "/2Cars/static/media/boton_reload.115e007c.png",
     "static/media/car_red.0a5752c4.png": "/2Cars/static/media/car_red.0a5752c4.png",
@@ -26,6 +27,6 @@
     "static/js/runtime-main.97a700e0.js",
     "static/js/2.88fe559a.chunk.js",
     "static/css/main.f9ea13b5.chunk.css",
-    "static/js/main.5c646cfa.chunk.js"
+    "static/js/main.c2687ed6.chunk.js"
   ]
 }
